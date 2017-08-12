@@ -21,6 +21,7 @@ body{
 
 a.navlink:link{
 	text-decoration: none;
+	color:#808080;
 }
 
 a.navlink:visited{
